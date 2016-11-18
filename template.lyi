@@ -1,0 +1,8 @@
+#(set-default-paper-size "letter")
+
+template = {
+    \tempo 
+    \key 
+    \numericTimeSignature
+    \time
+}
